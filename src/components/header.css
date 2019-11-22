@@ -1,0 +1,16 @@
+.site-header {
+  background: black;
+  color: white;
+  line-height: 1;
+}
+
+.site-header h1 a {
+  font-size: 1.2rem;
+  color: white;
+  text-decoration: none;
+}
+
+.site-header h1 a:hover {
+  opacity: 0.6;
+  transition: opacity 0.4s;
+}

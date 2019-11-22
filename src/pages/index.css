@@ -1,0 +1,18 @@
+.flex-item-grow {
+  flex: 1;
+}
+
+.mood {
+  flex: 2;
+}
+
+.style {
+  flex: 2;
+}
+
+.flex-item {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  height: 88vh;
+}

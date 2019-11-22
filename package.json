@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "Tandy Sean Arnold personal site",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "Personal space for Web Developer Sean Arnold",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "sean arnold tandysean@gmail.com",
   "dependencies": {
     "gatsby": "^2.17.11",
     "gatsby-image": "^2.2.31",
